@@ -1,0 +1,14 @@
+faiss-cpu
+groq
+langchain-groq
+PyPDF2
+langchain_google_genai
+langchain
+streamlit
+langchain_community
+python-dotenv
+pypdf
+google-cloud-aiplatform>=1.38
+pydantic==1.10.12
+langchain==0.0.209
+dotenv
